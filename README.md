@@ -4,4 +4,4 @@ Para poder iniciar, se debe ejecutar primero el archivo "abreme.py" y luego el a
 Una vez esté todo hecho, ya se puede abrir el archivo llamado "main.py"
 
 # NOTA
-En el archivo "crear base.py" se debe modificar la contraseña a la que usted posee en su base de datos mysql.
+En el archivo "crear base.py" se debe modificar el valor de la variable "password" a la contraseña que usted posee en su base de datos mysql.
